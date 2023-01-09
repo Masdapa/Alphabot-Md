@@ -32,7 +32,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 // Other
 global.botname = "Pinkybot MD" //namabot kalian
-global.ownername = "Chainsaw" //nama kalian
+global.ownername = "チンコのように" //nama kalian
 global.myweb = "https://s.id/yt_md" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@dapa_md" //bebas asal jan hapus
 global.myweb2 = "https://s.id/yt_md" //bebas
